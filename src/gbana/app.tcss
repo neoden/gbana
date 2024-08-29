@@ -6,8 +6,13 @@
     width: 1fr;
 }
 
+.input_time {
+    width: 26;
+}
+
 #btn_refresh {
     width: 10;
+    margin-right: 1;
 }
 
 #log {
