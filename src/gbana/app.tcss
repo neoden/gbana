@@ -1,0 +1,15 @@
+#cnt_search_bar {
+    height: 3;
+}
+
+#input_search {
+    width: 1fr;
+}
+
+#btn_refresh {
+    width: 10;
+}
+
+#log {
+    height: 100%;
+}
